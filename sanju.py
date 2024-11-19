@@ -1,0 +1,2 @@
+print("san")
+print("ju")
