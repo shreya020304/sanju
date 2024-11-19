@@ -1,2 +1,2 @@
-print("san")
-print("ju")
+print("sam")
+print("juu")
